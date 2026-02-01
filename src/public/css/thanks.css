@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background: #fff;
+  color: #8e7d6e;
+}
+
+.thanks {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.thanks-message {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.home-button {
+  display: inline-block;
+  background: #82756b;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 40px;
+  font-size: 14px;
+}
